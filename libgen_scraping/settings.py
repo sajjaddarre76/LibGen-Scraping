@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     "libgen_spider",
 
     # third-party apps
-    "import_export",
+    # "import_export",
 ]
 
 MIDDLEWARE = [
